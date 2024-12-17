@@ -1,4 +1,4 @@
-## **Welcome to my GitHub profile!**
+## **Welcome to my GitHub profile!** 🌍💚
 
 I'm Matteo, a graduate student dedicated to developing data science skills that tackle complex environmental challenges. My passion lies in advancing my career in environmental data science, specifically focusing on ecology, conservation, and restoration.
 
